@@ -2,11 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=42&pause=1000&color=FF7A00&center=true&vCenter=true&width=700&lines=Oi%2C+eu+sou+a+Bea+Damazio+%F0%9F%A7%A1" />
 </p>
 
-<p align="center">
-  Desenvolvedora Front-end
-</p>
-
-##🧡
 
 💻 Desenvolvedora front-end em formação  
 🎯 Focada em aprender na prática e evoluir um pouco todos os dias
@@ -29,15 +24,6 @@
 - Organização e boas práticas de código  
 
 ---
-
-## 🚀 Projetos em destaque
-📝 **Lista de Tarefas (To-do List)**  
-Projeto para praticar lógica, DOM e eventos  
-👉 https://beadamazio.github.io/todo-list/
-
-⏱️ **Cronômetro**  
-Projeto focado em interação com o usuário usando JavaScript  
-👉 https://beadamazio.github.io/cronometro/
 
 📫 **Contato:**  
 - LinkedIn: https://www.linkedin.com/in/beatriz-damazio-fernandes-franco/
