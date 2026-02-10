@@ -20,7 +20,7 @@
 ## 🧠 O que estou praticando
 - Manipulação do DOM  
 - Eventos em JavaScript  
-- Validação de formulários  
+- Validação de formulários 
 - Organização e boas práticas de código  
 
 ---
