@@ -1,14 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-  font=Fira+Code
-  &size=32
-  &pause=1000
-  &color=FF7A00
-  &center=true
-  &vCenter=true
-  &width=450
-  &lines=Oi%2C+eu+sou+a+Bea+Damazio+%F0%9F%A7%A1" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=42&pause=1000&color=FF7A00&center=true&vCenter=true&width=650&lines=Oi%2C+eu+sou+a+Bea+Damazio+%F0%9F%A7%A1" />
 </p>
+
 # Oi, eu sou a Bea Damazio🧡
 
 💻 Desenvolvedora front-end em formação  
