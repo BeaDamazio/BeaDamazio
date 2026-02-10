@@ -1,28 +1,14 @@
-<h1 align="center">
-  <span class="typing">👋 Beatriz</span>
-</h1>
-
-<style>
-.typing {
-  display: inline-block;
-  overflow: hidden;
-  white-space: nowrap;
-  border-right: 3px solid #FF7A00;
-  animation: typing 2.5s steps(10, end), blink 0.8s infinite;
-  font-weight: bold;
-  color: #FF7A00;
-}
-
-@keyframes typing {
-  from { width: 0 }
-  to { width: 10ch }
-}
-
-@keyframes blink {
-  0%, 50%, 100% { border-color: #FF7A00; }
-  25%, 75% { border-color: transparent; }
-}
-</style>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+  font=Fira+Code
+  &size=32
+  &pause=1000
+  &color=FF7A00
+  &center=true
+  &vCenter=true
+  &width=450
+  &lines=Oi%2C+eu+sou+a+Bea+Damazio+%F0%9F%A7%A1" />
+</p>
 # Oi, eu sou a Bea Damazio🧡
 
 💻 Desenvolvedora front-end em formação  
