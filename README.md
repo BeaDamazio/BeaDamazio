@@ -1,31 +1,35 @@
-# 👋 Olá, eu sou a Bea!
+# 👋 Oi, eu sou a Bea 🧡
 
-Sou desenvolvedora front-end em formação, com foco em HTML, CSS e JavaScript.  
-Gosto de aprender construindo projetos práticos e evoluir um pouco a cada dia.
+💻 Desenvolvedora front-end em formação  
+🎯 Focada em aprender na prática e evoluir um pouco todos os dias
 
-## 🚀 Tecnologias que estou utilizando
-- HTML5  
-- CSS3  
-- JavaScript  
-- Git e GitHub  
+---
 
-## 🧠 O que estou aprendendo
+## 🧡 Tecnologias que utilizo
+<p>
+  <img src="https://img.shields.io/badge/HTML5-FF7A00?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-FF9A3C?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-FFB347?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+---
+
+## 🧠 O que estou praticando
 - Manipulação do DOM  
 - Eventos em JavaScript  
 - Validação de formulários  
-- Boas práticas de organização de código  
+- Organização e boas práticas de código  
 
-## 📂 Projetos em destaque
-- 📝 **Lista de Tarefas (To-do List)**  
-  Projeto para praticar lógica, DOM e eventos  
-  👉 https://beadamazio.github.io/todo-list/
+---
 
-- ⏱️ **Cronômetro**  
-  Projeto para praticar JavaScript e interação com o usuário  
-  👉 https://beadamazio.github.io/cronometro/
+## 🚀 Projetos em destaque
+📝 **Lista de Tarefas (To-do List)**  
+Projeto para praticar lógica, DOM e eventos  
+👉 https://beadamazio.github.io/todo-list/
 
-## 🌱 Em constante evolução
-Estou buscando uma oportunidade para crescer na área de tecnologia, aprender com o time e contribuir desde o início com dedicação e vontade de evoluir.
+⏱️ **Cronômetro**  
+Projeto focado em interação com o usuário usando JavaScript  
+👉 https://beadamazio.github.io/cronometro/
 
 📫 **Contato:**  
 - LinkedIn: https://www.linkedin.com/in/beatriz-damazio-fernandes-franco/
